@@ -13,6 +13,4 @@ Uefi firmware for sm8150
 
 注意事项：1. 交叉编译器gcc版本尽量在5-8(不然可能会炸basetool)  
   
-Q群:697666196（水友交流群） 
- 
-tg:Renegade Project  
+
